@@ -8,7 +8,7 @@ import (
 )
 
 func main()  {
-	// FLAGS
+	// FLAGS libray
 	urlencode := flag.Bool("e", false, "Url Encode")
 	urldecode := flag.Bool("d", false, "Url Decode")
 
