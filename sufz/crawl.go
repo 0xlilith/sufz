@@ -1,6 +1,8 @@
 package sufz
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func Hello() {
 	fmt.Println("Test from crawl")

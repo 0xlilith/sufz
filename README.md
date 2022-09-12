@@ -1,2 +1,2 @@
 # sufz
-super fuzzer
+multi web recon tool
