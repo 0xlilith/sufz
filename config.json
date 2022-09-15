@@ -1,0 +1,5 @@
+{
+    "threads": 8,
+    "depth"  : 2,
+    "timeout": -1
+}
